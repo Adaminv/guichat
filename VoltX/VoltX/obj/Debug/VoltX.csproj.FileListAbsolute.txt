@@ -1,0 +1,17 @@
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\VoltX.exe.config
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\VoltX.exe
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\VoltX.pdb
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\FlatUI.dll
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.Form1.resources
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.Properties.Resources.resources
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.csproj.GenerateResource.cache
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.csproj.CopyComplete
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.exe
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.pdb
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\MySql.Data.dll
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\Google.Protobuf.dll
+C:\Users\Adam\source\repos\VoltX\VoltX\bin\Debug\MySql.Data.xml
+C:\Users\Adam\source\repos\VoltX\VoltX\obj\Debug\VoltX.LoginRegister.resources
